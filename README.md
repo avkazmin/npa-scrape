@@ -5,3 +5,5 @@
 **Получение информации об актуальной редакции НПА**
 
 **Получение текста НПА по ссылке с docid НПА**
+
+http://nla-service.minjust.ru:8080/rnla-links/ws/content/act/docid.html
